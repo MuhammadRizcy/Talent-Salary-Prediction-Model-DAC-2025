@@ -50,5 +50,4 @@ Although this project did not win the competition, it represents a complete end-
 ### 5. Evaluation
 - Metric used: **Mean Absolute Error (MAE)**  
 - Cross-validation average MAE ≈ **1.23 × 10⁶**  
-- Standard deviation across folds: **~1.1 × 10⁵**  
 - Final model showed consistent performance and generalization across folds.
